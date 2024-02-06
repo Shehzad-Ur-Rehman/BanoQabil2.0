@@ -1,0 +1,54 @@
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 20px;
+    background-color: antiquewhite;
+}
+
+
+h1 {
+    color: white;
+    background-color: rgb(102, 156, 111);
+    padding: inherit;
+}
+
+p {
+    padding: 5px;
+    margin: auto;
+}
+
+.one {
+    background-color: rgb(81, 240, 232);
+}
+.two {
+    background-color: rgb(77, 212, 206);
+}
+.three {
+    background-color: rgb(65, 155, 150);
+}
+.four {
+    background-color: rgb(29, 83, 81);
+}
+.five {
+    background-color: rgb(12, 63, 60);
+}
+.six {
+    background-color: rgb(13, 54, 52);
+}
+.seven {
+    background-color: rgb(48, 97, 94);
+}
+.eight {
+    background-color: rgb(64, 104, 102);
+}
+.nine {
+    background-color: rgb(88, 129, 127);
+}
+.ten {
+    background-color: rgb(134, 196, 193);
+}
+
+h2 {
+    color: white;
+    background-color: rgb(102, 156, 111);
+    padding: inherit;
+}
