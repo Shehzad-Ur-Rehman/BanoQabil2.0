@@ -94,6 +94,15 @@
 
 
 
+// var string = prompt("Please Enter a String");
+// var len = string.length;
+// var msg = "It is a Palindrome";
+// for (var i = 0; i < len; i++){
+//     if(string[i] != string[len - 1 - i]){
+//     msg = "It is not a Palindrome";
+// }
+// }
+// console.log(`${string}: ${msg}`);
 
 
 
@@ -111,7 +120,7 @@
 // const userInput = prompt("Enter a string:");
 // if (userInput !== null) {
 //     const result = isPalindrome(userInput);
-//     console.log(`"${userInput}" is a palindrome: ${result}`);
+    // console.log(`"${userInput}" is a palindrome: ${result}`);
 // } else {
 //     console.log("User canceled the input.");
 // };
